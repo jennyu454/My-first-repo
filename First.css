@@ -1,5 +1,7 @@
 div{
     background-color: cadetblue;
     text-align: center;
-    border: 20px sold coral;
+    border: 20px solid coral;
+    padding: 10px;
+    width:50%;
 }
